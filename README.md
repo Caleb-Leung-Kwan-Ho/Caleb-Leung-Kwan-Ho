@@ -31,7 +31,7 @@ Papers guiding my reading:
 
 Python · Elixir · TypeScript<br>
 FastAPI · Pydantic · Oban Pro<br>
-PostgreSQL · OpenSearch · AWS (ECS, S3, SQS) · Docker · GitHub Actions
+PostgreSQL · Vector Database · AWS (ECS, S3, SQS) · Docker · GitHub Actions
 
 ---
 
