@@ -60,7 +60,7 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
+<a href="https://www.linkedin.com/in/caleb-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
 
 <sub>Last updated: September 2026</sub>
 
@@ -132,7 +132,7 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 <a id="zh-contact"></a>
 ## 聯絡
 
-<a href="https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
+<a href="https://www.linkedin.com/in/caleb-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
 
 <sub>最後更新：2026年9月</sub>
 
@@ -204,7 +204,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 <a id="ja-contact"></a>
 ## 連絡先
 
-<a href="https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
+<a href="https://www.linkedin.com/in/caleb-leung-a67b74168/" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn in a new tab">LinkedIn</a> · <a href="mailto:caleb.leungkwanho@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Open Email in a new tab">Email</a>
 
 <sub>最終更新：2026年9月</sub>
 
