@@ -25,7 +25,7 @@
 
 ## 精選項目
 
-| Project | Work |
+| 項目 | 工作內容 |
 | --- | --- |
 | **IntellPro** | 為 document ingestion、OCR、chunking、metadata extraction 和 embedding orchestration 建構 AI infrastructure，每日處理約 3,000 份文件。 |
 | **Anime MCP** | 正在為 anime-character search 建構 MCP server。現正開發其 evaluation 和 lexical-retrieval foundation，並在實作 embeddings 前研究 hybrid fusion 和 relevance calibration。 |
@@ -49,7 +49,7 @@
 
 ## 主要工具與技術
 
-| Area | Technologies |
+| 領域 | 技術 |
 | --- | --- |
 | **Languages** | Python · Elixir · TypeScript |
 | **Backend & orchestration** | FastAPI · Pydantic · SQLAlchemy · Phoenix · Oban Pro |
@@ -57,7 +57,7 @@
 | **Infrastructure** | AWS (ECS, S3, SQS) · Docker · GitHub Actions |
 | **Python tooling** | asyncio · pytest |
 
-[Full skills & technologies →](https://caleb-leung-kwan-ho.github.io/github-website/#skills)
+[完整技能及技術 →](https://caleb-leung-kwan-ho.github.io/github-website/#skills)
 
 ---
 
@@ -65,4 +65,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/) · [Email](mailto:caleb.leungkwanho@gmail.com)
 
-<sub>Last updated: September 2026</sub>
+<sub>最後更新：2026年9月</sub>
