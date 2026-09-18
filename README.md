@@ -1,6 +1,12 @@
 ![Caleb Leung — AI engineering, backend systems, and retrieval](assets/profile-banner-retro.webp)
 
 <p align="center">
+  <strong>English</strong>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="README.zh-HK.md">繁體中文（香港）</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="README.ja-JP.md">日本語</a>
+</p>
+
+<p align="center">
   <a href="#about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#selected-work">WORK</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#currently-investigating">NOTES</a>&nbsp;&nbsp;|&nbsp;&nbsp;
