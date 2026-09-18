@@ -25,7 +25,7 @@ document processing、retrieval、embedding pipelines に取り組み、信頼�
 
 ## 主なプロジェクト
 
-| Project | Work |
+| プロジェクト | 内容 |
 | --- | --- |
 | **IntellPro** | document ingestion、OCR、chunking、metadata extraction、embedding orchestration のための AI infrastructure を構築し、1日あたり約 3,000 documents を処理しています。 |
 | **Anime MCP** | anime-character search 向けの MCP server を構築中です。現在は evaluation と lexical-retrieval foundation を開発し、embeddings を実装する前に hybrid fusion と relevance calibration を研究しています。 |
@@ -49,7 +49,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 
 ## 主なツールと技術
 
-| Area | Technologies |
+| 分野 | 技術 |
 | --- | --- |
 | **Languages** | Python · Elixir · TypeScript |
 | **Backend & orchestration** | FastAPI · Pydantic · SQLAlchemy · Phoenix · Oban Pro |
@@ -57,7 +57,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 | **Infrastructure** | AWS (ECS, S3, SQS) · Docker · GitHub Actions |
 | **Python tooling** | asyncio · pytest |
 
-[Full skills & technologies →](https://caleb-leung-kwan-ho.github.io/github-website/#skills)
+[スキルと技術の一覧 →](https://caleb-leung-kwan-ho.github.io/github-website/#skills)
 
 ---
 
@@ -65,4 +65,4 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 
 [LinkedIn](https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/) · [Email](mailto:caleb.leungkwanho@gmail.com)
 
-<sub>Last updated: September 2026</sub>
+<sub>最終更新：2026年9月</sub>
