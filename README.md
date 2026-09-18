@@ -1,12 +1,5 @@
 ![Caleb Leung — AI engineering, backend systems, and retrieval](assets/profile-banner-retro.webp)
 
-<p align="center">
-  <a href="#english">🇬🇧 English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#traditional-chinese-hong-kong">🇭🇰 繁體中文（香港）</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#japanese">🇯🇵 日本語</a>
-</p>
-
-<a id="english"></a>
 <details name="profile-language" open>
 <summary>🇬🇧 English</summary>
 
@@ -75,7 +68,6 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 
 ---
 
-<a id="traditional-chinese-hong-kong"></a>
 <details name="profile-language">
 <summary>🇭🇰 繁體中文（香港）</summary>
 
@@ -148,7 +140,6 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 
 ---
 
-<a id="japanese"></a>
 <details name="profile-language">
 <summary>🇯🇵 日本語</summary>
 
