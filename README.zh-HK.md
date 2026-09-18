@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#selected-work">WORK</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#currently-investigating">NOTES</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#contact">CONTACT</a>
+  <a href="#簡介">簡介</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#精選項目">項目</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#目前研究中">研究筆記</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#聯絡">聯絡</a>
 </p>
 
 ---
 
-## About
+## 簡介
 
 身處 Brooklyn 的 Software engineer，現於 IntellPro 建構 production AI systems。
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Selected work
+## 精選項目
 
 | Project | Work |
 | --- | --- |
@@ -32,13 +32,13 @@
 
 ---
 
-## Currently investigating
+## 目前研究中
 
 > **當 lexical 和 semantic scores 的 score distributions 不同時，應如何結合？**
 
 我正在研究 hybrid fusion 的基礎，著重 score normalization 和不同 score distributions 對 ranking 的影響。下一步會研究 relevance-probability calibration 和 query-adaptive fusion。
 
-### Papers guiding this work
+### 參考論文
 
 - [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11934)
 - [Score distribution models: assumptions, intuition, and robustness to score manipulation](https://dl.acm.org/doi/10.1145/1835449.1835491)
@@ -47,7 +47,7 @@
 
 ---
 
-## Selected tools & technologies
+## 主要工具與技術
 
 | Area | Technologies |
 | --- | --- |
@@ -61,7 +61,7 @@
 
 ---
 
-## Contact
+## 聯絡
 
 [LinkedIn](https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/) · [Email](mailto:caleb.leungkwanho@gmail.com)
 
