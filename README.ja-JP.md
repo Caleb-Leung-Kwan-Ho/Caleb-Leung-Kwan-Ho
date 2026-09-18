@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#selected-work">WORK</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#currently-investigating">NOTES</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#contact">CONTACT</a>
+  <a href="#概要">概要</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#主なプロジェクト">プロジェクト</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#現在調査中のテーマ">研究ノート</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#連絡先">連絡先</a>
 </p>
 
 ---
 
-## About
+## 概要
 
 Brooklyn を拠点とする Software engineer。IntellPro で production AI systems を構築しています。
 
@@ -23,7 +23,7 @@ document processing、retrieval、embedding pipelines に取り組み、信頼�
 
 ---
 
-## Selected work
+## 主なプロジェクト
 
 | Project | Work |
 | --- | --- |
@@ -32,13 +32,13 @@ document processing、retrieval、embedding pipelines に取り組み、信頼�
 
 ---
 
-## Currently investigating
+## 現在調査中のテーマ
 
 > **lexical scores と semantic scores の score distributions が異なる場合、どのように組み合わせるべきか？**
 
 hybrid fusion の基礎を学び、score normalization と異なる score distributions が ranking に与える影響を調べています。次に relevance-probability calibration と query-adaptive fusion を検討する予定です。
 
-### Papers guiding this work
+### 参考論文
 
 - [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11934)
 - [Score distribution models: assumptions, intuition, and robustness to score manipulation](https://dl.acm.org/doi/10.1145/1835449.1835491)
@@ -47,7 +47,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 
 ---
 
-## Selected tools & technologies
+## 主なツールと技術
 
 | Area | Technologies |
 | --- | --- |
@@ -61,7 +61,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 
 ---
 
-## Contact
+## 連絡先
 
 [LinkedIn](https://www.linkedin.com/in/caleb-kwan-ho-leung-a67b74168/) · [Email](mailto:caleb.leungkwanho@gmail.com)
 
