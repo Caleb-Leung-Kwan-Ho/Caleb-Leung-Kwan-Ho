@@ -1,7 +1,7 @@
 ![Caleb Leung — AI engineering, backend systems, and retrieval](assets/profile-banner-retro.webp)
 
-<details name="profile-language" open>
-<summary>🇬🇧 English</summary>
+<details name="profile-language">
+<summary>🇺🇸 English</summary>
 
 <p align="center">
   <a href="#about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
