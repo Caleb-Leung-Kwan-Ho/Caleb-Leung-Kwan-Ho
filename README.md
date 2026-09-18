@@ -1,12 +1,11 @@
 ![Caleb Leung — AI engineering, backend systems, and retrieval](assets/profile-banner-retro.webp)
 
 <p align="center">
-  <strong>English</strong>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#traditional-chinese-hong-kong">繁體中文（香港）</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#japanese">日本語</a>
+  <strong>🌐 Language / 語言 / 言語</strong>
 </p>
 
-<h2 id="english">English</h2>
+<details name="profile-language" open>
+<summary>🇬🇧 English</summary>
 
 <p align="center">
   <a href="#about">ABOUT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -69,16 +68,12 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 
 <sub>Last updated: September 2026</sub>
 
+</details>
 
 ---
 
-<p align="center">
-  <a href="#english">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>繁體中文（香港）</strong>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#japanese">日本語</a>
-</p>
-
-<h2 id="traditional-chinese-hong-kong">繁體中文（香港）</h2>
+<details name="profile-language">
+<summary>🇭🇰 繁體中文（香港）</summary>
 
 <p align="center">
   <a href="#zh-about">簡介</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -145,16 +140,12 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 
 <sub>最後更新：2026年9月</sub>
 
+</details>
 
 ---
 
-<p align="center">
-  <a href="#english">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#traditional-chinese-hong-kong">繁體中文（香港）</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>日本語</strong>
-</p>
-
-<h2 id="japanese">日本語</h2>
+<details name="profile-language">
+<summary>🇯🇵 日本語</summary>
 
 <p align="center">
   <a href="#ja-about">概要</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -221,3 +212,4 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 
 <sub>最終更新：2026年9月</sub>
 
+</details>
