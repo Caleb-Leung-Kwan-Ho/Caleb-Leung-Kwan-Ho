@@ -54,7 +54,7 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 | **Infrastructure** | AWS (ECS, S3, SQS) · Docker · GitHub Actions |
 | **Python tooling** | asyncio · pytest |
 
-<a href="https://caleb-leung-kwan-ho.github.io/github-website/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open Full skills &amp; technologies → in a new tab">Full skills &amp; technologies →</a>
+<a href="https://caleb-leung-kwan-ho.github.io/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open Full skills &amp; technologies → in a new tab">Full skills &amp; technologies →</a>
 
 ---
 
@@ -125,7 +125,7 @@ I'm studying the foundations of hybrid fusion, focusing on score normalization a
 | **Infrastructure** | AWS (ECS, S3, SQS) · Docker · GitHub Actions |
 | **Python tooling** | asyncio · pytest |
 
-<a href="https://caleb-leung-kwan-ho.github.io/github-website/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open 完整技能及技術 → in a new tab">完整技能及技術 →</a>
+<a href="https://caleb-leung-kwan-ho.github.io/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open 完整技能及技術 → in a new tab">完整技能及技術 →</a>
 
 ---
 
@@ -197,7 +197,7 @@ hybrid fusion の基礎を学び、score normalization と異なる score distri
 | **Infrastructure** | AWS (ECS, S3, SQS) · Docker · GitHub Actions |
 | **Python tooling** | asyncio · pytest |
 
-<a href="https://caleb-leung-kwan-ho.github.io/github-website/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open スキルと技術の一覧 → in a new tab">スキルと技術の一覧 →</a>
+<a href="https://caleb-leung-kwan-ho.github.io/#skills" target="_blank" rel="noopener noreferrer" aria-label="Open スキルと技術の一覧 → in a new tab">スキルと技術の一覧 →</a>
 
 ---
 
